@@ -1,0 +1,15 @@
+.line{
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#apps{
+    text-align: center;
+}
+#games{
+    text-align: center;
+}
+#chatbots{
+    text-align: center;
+}
